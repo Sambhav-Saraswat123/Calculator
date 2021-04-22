@@ -1,6 +1,6 @@
 *, *::before, *::after {
     box-sizing: border-box;
-    font-family: Arial Rounded MT, Arial;
+    font-family: Gotham Rounded, Arial Rounded MT, Arial;
     font-weight: normal;
   }
   
